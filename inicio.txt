@@ -1,3 +1,7 @@
 int numero1 = 10;
 int numero2 = 15;
 int total= numero1 + numero2;
+
+int totalresta= numero1 - numero2;
+int totalmulti= numero1 * numero2;
+int totaldiv= numero1 / numero2;
